@@ -1,5 +1,6 @@
 ## *I On You Review & Reputation System*
 ### *Designed | Developed | Deployed by Christopher Cialone for Rosalone Labs*
+### *Full Dev Docs found on GitBook https://app.gitbook.com/o/1UVoCAqd0OTeffxOKntk/s/e4B1IFyCAD4BpSM9EjCt/requirements*
 
 #### The I On You Review reputation system is a decentralized application (dApp) designed to empower users by providing detailed and specific industry-related information about businesses, enabling them to align with companies that share their values. By leveraging blockchain technology, Chainlink services, and IPFS, the system ensures transparency, reliability, and security. Businesses that actively address user feedback are rewarded with tokenized incentives, fostering a responsive and accountable business environment.
 
@@ -10,7 +11,7 @@
 - **Facilitate seamless integration with other Web3 applications via APIs**
 
 ## Requirements
-- *Must Have:*
+- **Must Have:**
 - **Ability for users to query businesses using an API that triggers ChatGPT to gather information about the business’s values, missions, and political donations**
 - **Storage of data on IPFS, with pinning managed through Pinata to ensure data availability**
 - **Tokenized incentives for businesses that address user concerns, visible in marketing spaces on affiliate apps**
